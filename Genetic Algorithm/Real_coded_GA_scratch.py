@@ -3,7 +3,7 @@
 ####*************************************####
 
 # NOTES:
-# This code does take into account constraint handling
+# This code does not take into account constraint handling
 # Availabe methods for:
 # Selection: Tournament
 # Pairing: Random
